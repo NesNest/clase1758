@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nestorlandia </title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="./media/favico.ico" type="image/x-icon">
+</head>
+<body>
+    <main>
+        <section>
+            <div>
+                <h1>
+                    Bom Dia meu menino
+                </h1>
+            </div>
+        </section>
+        <section>
+            <table border="18">
+                <thead>
+                    <tr>
+                        <th>Lunes</th>
+                        <th>Martes</th>
+                        <th>Miercoles</th>
+                        <th>Jueves</th>
+                        <th>Viernes</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>lab redes</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+
+                    </tr>
+                    <tr>
+                        <td>sistemas de informacion</td>
+                        <td>redes de computadoras</td>
+                        <td>sistemas de informacion</td>
+                        <td>redes de computadoras</td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>microprocesadores</td>
+                        <td>programacion web 2</td>
+                        <td>microprocesadores</td>
+                        <td>programacion web 2</td>
+                        <td>microprocesadores</td>
+                    </tr>
+                    <tr>
+                        <td>habilidades directivas</td>
+                        <td></td>
+                        <td>habilidades directivas</td>
+                        <td></td>
+                        <td>sistemas multiusuario</td>
+                    </tr>
+                    <tr>
+                        <td>lab microprocesadores</td>
+                        <td>temas especiales</td>
+                        <td></td>
+                        <td>temas especiales</td>
+                        <td>sistemas multiusuario</td>
+                    </tr>
+                </tbody>
+               
+            </table>
+        </section>
+    </main>
+    <footer>
+        <br>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, voluptate aperiam. Placeat deleniti, minima quod impedit tenetur corrupti dolorum reiciendis nesciunt earum atque, quam omnis. Voluptas aut rem explicabo doloribus.
+    </footer>
+    
+    
+    
+</body>
+</html> 
